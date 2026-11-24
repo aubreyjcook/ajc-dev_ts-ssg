@@ -1,0 +1,25 @@
+{
+  "name": "ajc-dev_ts-ssg",
+  "version": "1.0.0",
+  "description": "Static site generator developed in TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aubreyjcook/ajc-dev_ts-ssg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aubreyjcook/ajc-dev_ts-ssg/issues"
+  },
+  "homepage": "https://github.com/aubreyjcook/ajc-dev_ts-ssg#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "typescript": "^7.0.2"
+  }
+}
